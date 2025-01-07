@@ -14,4 +14,5 @@ Appliances Connect each appliance’s positive terminal to the relay’s NO (Nor
 Power Supply Ensure that the relays can handle the voltage and current requirements of the connected devices. For safety, use a separate power supply for high-voltage appliances.
 How It Works Bluetooth Pairing: Pair the HC-05 module with your smartphone. The default PIN is either 1234 or 0000. Control via Bluetooth: Open a Bluetooth terminal app on your smartphone. Commands: Send the following commands to control the devices: 1: Turn ON Device 1 2: Turn OFF Device 1 3: Turn ON Device 2 4: Turn OFF Device 2 5-8: Control Device 3 and Device 4 similarly
 
-![Uploading task 2.jpg…]()
+![task 2](https://github.com/user-attachments/assets/b02e02eb-d48f-4e39-a0de-845508a56f6c)
+
